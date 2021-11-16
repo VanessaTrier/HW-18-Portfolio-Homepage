@@ -1,0 +1,107 @@
+.customNav {
+  background-color: #cb6749;
+}
+
+.customNav a {
+  color: #f9e8d9 !important;
+  display: flex;
+  justify-content: left;
+}
+.navbar-nav {
+  margin-left: auto;
+  margin-right: 50 !important;
+}
+.heroBackground {
+  background-image: url(../Images/Vanessa-Portfolio-Hero.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 500px;
+}
+.whatIDo {
+  background-color: #f9e8d9;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  text-align: center;
+  padding-right: 25;
+  padding-left: 25;
+  color: #1c102d;
+}
+.heroContent {
+  padding-bottom: 0;
+  background-color: #f9e8d9;
+}
+body {
+  background-color: #f9e8d9;
+}
+h1 {
+  font-size: 60px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 60px;
+  color: #cb6749;
+}
+.card-title-big {
+  font-size: 48px;
+}
+.card {
+  background-color: #1c102d;
+  color: white;
+  margin: 5%;
+  min-height: 250px;
+  padding-top: 5px;
+}
+.row {
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+}
+.orangeText {
+  color: #cb6749;
+}
+.bigCard1 {
+  padding-top: 25px;
+  background-color: #cb6749;
+  margin: 5%;
+  padding-top: 25px;
+  border-radius: 10;
+  min-height: 400px;
+}
+.bigCard2 {
+  background-color: #b89b3a;
+  margin: 5%;
+  padding-top: 25px;
+  border-radius: 10;
+  min-height: 400px;
+  text-align: right;
+}
+.bigCard3 {
+  background-color: #f9e8d9;
+  margin: 5%;
+  padding-top: 25px;
+  border-radius: 10;
+  min-height: 400px;
+}
+.myWork {
+  background-color: #1c102d;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+.card-img-top {
+  height: 200px;
+  width: 300px;
+}
+.btn-primary {
+  color: white;
+  background-color: #1c102d;
+  border-style: none;
+}
+footer {
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 10px;
+  background-color: #1c102d;
+  color: white;
+}
