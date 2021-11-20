@@ -12,7 +12,7 @@
   margin-right: 50 !important;
 }
 .heroBackground {
-  background-image: url(Vanessa-Portfolio-Hero.png);
+  background-image: url("Vanessa-Portfolio-Hero.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
